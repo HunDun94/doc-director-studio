@@ -1,0 +1,57 @@
+{
+ "prompt": {
+  "node": "5386",
+  "input": "value"
+ },
+ "duration": {
+  "node": "132",
+  "input": "value",
+  "unit": "seconds",
+  "int": false
+ },
+ "seed": {
+  "node": "5417",
+  "input": "seed"
+ },
+ "images": [
+  {
+   "node": "264"
+  },
+  {
+   "node": "564"
+  },
+  {
+   "node": "269"
+  },
+  {
+   "node": "270"
+  },
+  {
+   "node": "271"
+  },
+  {
+   "node": "272"
+  }
+ ],
+ "videos": [],
+ "outputs": [
+  {
+   "node": "665"
+  }
+ ],
+ "extra": [
+  {
+   "node": "288",
+   "input": "Number",
+   "value": 1600
+  },
+  {
+   "node": "115",
+   "input": "megapixels",
+   "value": 0.8
+  }
+ ],
+ "extra_texts": [],
+ "fps": 24,
+ "template_hash": "2a617015387e"
+}
